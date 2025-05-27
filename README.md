@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Jaya 👋
 
-<!--
-**jaya-nandi/jaya-nandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full-stack Developer | WordPress Enthusiast  
+- 🎓 B.Tech in IT, KIIT University  
+- 🌐 Exploring PHP, React, Node, and WordPress Plugin Development  
+- 📂 Check out my GitHub projects below!
 
-Here are some ideas to get you started:
+### 🚀 Skills  
+PHP | WordPress | React | JavaScript | MySQL | Git | AWS | HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects  
+- WordPress Blog Customization  
+- Hello Shortcode Plugin  
+- PHP Contact Form  
+- Weather App (JS + API)  
+- PHP CRUD System
+
+### 🔗 Connect  
+- [LinkedIn](https://www.linkedin.com/in/jaya-nandi-5772502a1)
